@@ -50,7 +50,7 @@ An Air Quality Index (AQI) monitoring application that helps users stay informed
 
 ## **Get In Touch**
 - **GitHub**: [DCODE-ARMY](https://github.com/DCODE-ARMY)
-- **LinkedIn**: [LinkedIn Profile](#) (Add your LinkedIn link here)
+- **LinkedIn**: [LinkedIn Profile](#) (www.linkedin.com/in/darshan-ravichandiran)
 
 I'm always open to collaborating on interesting projects and exploring new technologies. If you find my work interesting or have a project in mind, feel free to connect!
 
