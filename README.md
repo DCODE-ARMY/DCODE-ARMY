@@ -39,6 +39,10 @@ A face recognition application developed for an autonomous attendance system usi
 An Air Quality Index (AQI) monitoring application that helps users stay informed about air quality levels in their area through real-time data tracking.
 [View Project](https://github.com/DCODE-ARMY/AQI)
 
+### **Credit Risk Analysis**
+AI-driven, multi-agent platform that turns noisy market data, news & public sentiment into a crystal-clear credit-risk score.
+[view project](https://github.com/DCODE-ARMY/CreditRiskAnalysis)
+
 ## **Skills & Technologies**
 - **Languages**: Python, SQL, JavaScript
 - **Frameworks**: Django, FastAPI (currently learning)
